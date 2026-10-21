@@ -1,0 +1,9 @@
+{
+  "frozen_utc": "2026-10-19T00:44:51.068100+00:00",
+  "sha256": {
+    "protocol.json": "f8dff6f5f3a3e9001f2837649ef06a43fb6d4af9d5447a705cef6f6778e4148c",
+    "experiment.py": "e75a66a12f3d8a78851de908a780e5118703d177e95bb734fe2dcbfa06d81418",
+    "test_experiment.py": "326f5fa078488de7729da9f231791797f26e4923410cf4ab7e0bbaac1afa2a3a",
+    "analyze.py": "14bee9f2f30d42b58f1f4db1802582cf9e12936af2a2f3826df6044480a91f89"
+  }
+}

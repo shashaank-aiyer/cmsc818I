@@ -1,0 +1,13 @@
+{
+  "reason": "Original unsigned cumulative counts caused subtraction underflow in canonical paired differences. Initial plotting error exposed inconsistent summary magnitudes; all values were corrected before delivery.",
+  "changes": [
+    "Convert endpoint counts to float64 before computing paired differences; fixes means and t-tests. Bootstrap intervals already used floating-point arithmetic.",
+    "Draw percentile intervals at literal endpoints.",
+    "Update documentation and reproduction command."
+  ],
+  "experiment_rerun": false,
+  "design_or_estimand_changes": false,
+  "all_statistics_regenerated": true,
+  "original_sha256": "14bee9f2f30d42b58f1f4db1802582cf9e12936af2a2f3826df6044480a91f89",
+  "repaired_sha256": "ff658ef8621e1a0b1bee555011e23d3dfe4f2e11f3db2d18a8b575e688c28c90"
+}
